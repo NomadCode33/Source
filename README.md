@@ -30,7 +30,8 @@ Feel free to explore some of my other projects in my portfolio:
 **Personal Website:** [Website](https://github.com/NomadCode33/DevChronicles/tree/main/Portfolio)
 
 **D&D Compendium:** [D&D Compendium](https://github.com/NomadCode33/DevChronicles/tree/main/dnd-compendium)
-<br>
-<br>
 
+## Repositories
 **Profile:** [NomadCode33](https://github.com/NomadCode33)
+
+**Main Repository:** [DevChronicles](https://github.com/NomadCode33/DevChronicles)
